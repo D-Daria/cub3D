@@ -1,0 +1,14 @@
+.DS_Store
+
+libft/libft.a
+libft/srcs/*/*.o
+libft/srcs/*/*.d
+mlx/libmlx.a
+mlx/*.o
+objs/
+cub3D
+a.out
+.vscode
+*.dSYM
+
+test/
