@@ -82,7 +82,10 @@ or
 
 <details>
 <div style="height: 10px"></div>
+
 <summary> Raycasting </summary>
+
+<div style="height: 10px"></div>
 
 🌐 [Lode's Computer Graphics Tutorial - Raycasting](https://lodev.org/cgtutor/raycasting.html)
 
@@ -93,11 +96,11 @@ or
 ▶️ [Make Your Own Raycaster Part 1](https://www.youtube.com/watch?v=gYRrGTC7GtA)
 </details>
 
-<br>
 
 <details>
 <div style="height: 10px"></div>
 <summary> Movements </summary>
+<div style="height: 10px"></div>
 
 ▶️ [Rotation matrice](https://www.youtube.com/watch?v=OYuoPTRVzxY)
 
@@ -105,11 +108,10 @@ or
 
 </details>
 
-<br>
-
 <details>
 <div style="height: 10px"></div>
 <summary> Map validation </summary>
+<div style="height: 10px"></div>
 
 🌐 [How can I tell if an object in a tile grid is surrounded?](https://gamedev.stackexchange.com/questions/89857/how-can-i-tell-if-an-object-in-a-tile-grid-is-surrounded)
 
@@ -119,11 +121,10 @@ or
 
 </details>
 
-<br>
-
 <details>
 <div style="height: 10px"></div>
 <summary> Textures </summary>
+<div style="height: 10px"></div>
 
 🌐 [OpenGameArt.org](https://opengameart.org/content/tiny-texture-pack-1?page=5)
 
