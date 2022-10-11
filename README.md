@@ -64,6 +64,11 @@ To validate the map we used `flood-fill algorithm`
 
 • The minimap is displayed in the top left corner with player moving as you press the keys.
 
+### Game preview
+<div style="max-width: 600px">
+	<img src="info/imgs/game_preview.png">
+</div>
+
 ## 🏁 How to run
 
 The project can be compiled on both Mac OS and Linux.
