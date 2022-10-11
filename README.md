@@ -20,15 +20,13 @@
 
 ## Content
 
-[Summary](https://github.com/D-Dashka/Cub3D#summary)
+[Summary](https://github.com/D-Dashka/cub3D#-summary)
 
-[Game](https://github.com/D-Dashka/Cub3D#game)
+[Game](https://github.com/D-Dashka/cub3D#-game)
 
-[Map](https://github.com/D-Dashka/Cub3D#map)
+[How to run](https://github.com/D-Dashka/cub3D#-how-to-run)
 
-[How to run](https://github.com/D-Dashka/Cub3D#how-to-run)
-
-[Sources](https://github.com/D-Dashka/Cub3D#sources)
+[Useful links and sources](https://github.com/D-Dashka/cub3D#-useful-links-and-sources)
 
 ## 📄 Summary
 
@@ -80,7 +78,7 @@ or
 
 	./cub3D maps/lab.cub
 
-# 🔗 Useful links and sources
+## 🔗 Useful links and sources
 
 <details>
 <div style="height: 10px"></div>
