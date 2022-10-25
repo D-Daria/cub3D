@@ -6,7 +6,7 @@
 /*   By: mrhyhorn <mrhyhorn@student.21-school.ru    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/03 15:22:08 by mrhyhorn          #+#    #+#             */
-/*   Updated: 2022/10/03 15:22:10 by mrhyhorn         ###   ########.fr       */
+/*   Updated: 2022/10/25 09:36:53 by mrhyhorn         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,6 +20,7 @@ void	ft_free_elems(t_data *data)
 	ft_memdel(data->elems->east_txtr);
 	ft_memdel(data->elems->floor_clr);
 	ft_memdel(data->elems->ceiling_clr);
+	getchar();
 }
 
 void	ft_destroy_textures(t_data *data, t_texture *t)
